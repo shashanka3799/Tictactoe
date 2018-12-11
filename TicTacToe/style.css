@@ -1,0 +1,34 @@
+body{
+	background-color:black;
+}
+h1{
+	color:white;
+	text-align:center;
+}
+table, tr, td {
+  border: 1px solid white;
+
+}
+td{
+	height:100px;
+	width:100px;
+}
+.result{
+	color:white;
+	font-size:30px;
+}
+.display tr{
+	border:2px solid white;
+}
+#cell {
+  width:80px;
+  height:80px;
+  border: 5px solid #000000;
+  background: #FFFFFF;
+  font-size: 25px;
+  font-family: arial;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+
+}
