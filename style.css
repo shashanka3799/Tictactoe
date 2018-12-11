@@ -1,0 +1,14 @@
+body{
+	background-color:black;
+}
+h1{
+	color:white;
+	text-align:center;
+}
+table, tr, td {
+  border: 1px solid white;
+}
+td{
+	height:100px;
+	width:100px;
+}
